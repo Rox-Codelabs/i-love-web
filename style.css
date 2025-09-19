@@ -38,6 +38,7 @@ header{
 
     overflow: hidden;
     position: absolute;
+    z-index: -1;
 }
 /*-----------------------------------blur effect*/
 /*-----------------------------------zonnetje*/
